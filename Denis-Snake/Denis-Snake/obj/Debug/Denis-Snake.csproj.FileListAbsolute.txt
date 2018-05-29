@@ -1,0 +1,15 @@
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\obj\Debug\Denis-Snake.csprojResolveAssemblyReference.cache
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\obj\Debug\MainWindow.g.cs
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\obj\Debug\App.g.cs
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\obj\Debug\Denis-Snake_MarkupCompile.cache
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\obj\Debug\Denis-Snake_MarkupCompile.lref
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\bin\Debug\Denis-Snake.exe.config
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\bin\Debug\Denis-Snake.exe
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\bin\Debug\Denis-Snake.pdb
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\obj\Debug\MainWindow.baml
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\obj\Debug\Denis-Snake.g.resources
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\obj\Debug\Denis_Snake.Properties.Resources.resources
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\obj\Debug\Denis-Snake.csproj.GenerateResource.cache
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\obj\Debug\Denis-Snake.csproj.CoreCompileInputs.cache
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\obj\Debug\Denis-Snake.exe
+C:\Users\Galiber\source\repos\Denis-Snake\Denis-Snake\obj\Debug\Denis-Snake.pdb
